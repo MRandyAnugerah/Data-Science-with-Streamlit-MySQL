@@ -68,7 +68,7 @@ def app():
                 st.text(""), \
                 st.text(""), \
                 st.text(""), \
-                st.text('M.Randy Anugerah'), st.text('Muhammad Aji Purnama Wibowo'), \
+                st.text('M.Randy Anugerah'), \
                 st.text(""), \
                 st.text(""), \
                 st.text('This Page Still in Beta Test')
