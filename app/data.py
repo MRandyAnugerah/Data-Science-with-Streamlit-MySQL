@@ -38,4 +38,4 @@ def app():
     shwdata = st.multiselect('Pilih Kolom yang mau ditampilkan:', df.columns, default=[])
     st.write(df[shwdata])
 
-    st.text('M.Randy Anugerah & Muhammad Aji Purnama Wibowo')
+    st.text('M.Randy Anugerah')
