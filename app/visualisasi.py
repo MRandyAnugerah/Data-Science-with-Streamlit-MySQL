@@ -76,4 +76,4 @@ def app():
     sns.heatmap(df.corr(), linewidths=.5, ax=ax, cmap='coolwarm', annot=True)
     st.write(fig)
 
-    st.text('M.Randy Anugerah & Muhammad Aji Purnama Wibowo')
+    st.text('M.Randy Anugerah')
