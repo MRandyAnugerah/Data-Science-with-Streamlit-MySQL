@@ -66,4 +66,4 @@ def app():
     sns.heatmap(conf_matrix, cmap='PuOr', annot=True)
     st.subheader("Confusion Matrix"), st.pyplot(fig5)
 
-    st.text('M.Randy Anugerah & Muhammad Aji Purnama Wibowo')
+    st.text('M.Randy Anugerah')
